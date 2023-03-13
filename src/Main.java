@@ -3,8 +3,8 @@ public class Main {
         int ticketAmount = 10000;
         int milesPerRub = 20;
 
-        int bonusMiles = ticketAmount/milesPerRub;
+        int bonusMiles = ticketAmount / milesPerRub;
 
-        System.out.println("Рассчитать количество бонусных миль" + bonusMiles );
+        System.out.println("Рассчитать количество бонусных миль" + bonusMiles);
     }
 }
